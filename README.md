@@ -14,7 +14,7 @@ Maven安装配置
 
 常见bug解决
 
-如何加速，用阿里云镜像
+镜像文件如何加速，用阿里云镜像
 
 各种常见Maven插件
 
@@ -22,12 +22,12 @@ Maven安装配置
 
 了解Gradle
 
-# Java Web
+# Java Web（开发相关知识）
 Servlet Tomcat JSP
 
 传统XML配置SSM/SSH
 
-# SpringBoot
+SpringBoot
 
 SpringCloud （了解即可）
 
@@ -38,7 +38,7 @@ SpringCloud （了解即可）
 
 反射修改final的问题
 
-进阶：高版本绕过反射限制等
+进阶：高版本绕过反射限制等（有黑名单限制如何绕过）
 
 # ASM/Javassist
 (推荐用到再学，主要是安全开发需要学)
