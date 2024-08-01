@@ -71,6 +71,7 @@ rmi是什么
 攻击Client端
 
 攻击DGC
+> [Java RMI 攻击由浅入深](https://su18.org/post/rmi-attack/)
 
 # java agent
 启动前与运行中的Agent
