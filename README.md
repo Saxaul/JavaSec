@@ -56,7 +56,7 @@ SpringCloud （了解即可）
 
 如何审计这种漏洞
 
-[JNDI注入原理及利用考究](https://xz.aliyun.com/t/12277?time__1311=GqGxRDcD9D2iqGN4mxU2m7waPmThbD)
+> [JNDI注入原理及利用考究](https://xz.aliyun.com/t/12277?time__1311=GqGxRDcD9D2iqGN4mxU2m7waPmThbD)
 # rmi攻击（重点）
 rmi是什么
 
