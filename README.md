@@ -1,16 +1,14 @@
 # JavaSec
 Java安全学习记录
 Java 安全学习路线
-idea
+
+# idea
 idea安装，如何调试，常见bug如何解决
 
-Maven
+# Maven
 Maven安装配置
-
 常见bug解决
-
 如何加速
-
 各种常见Maven插件
 
 多模块项目是什么
