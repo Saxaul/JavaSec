@@ -57,7 +57,9 @@ SpringCloud （了解即可）
 如何审计这种漏洞
 
 > [JNDI注入原理及利用考究](https://xz.aliyun.com/t/12277?time__1311=GqGxRDcD9D2iqGN4mxU2m7waPmThbD)
+> 
 > [JNDI注入分析](https://tttang.com/archive/1611/)
+> 
 > [素十八JNDI注入--Log4j2：里程碑式的顶级供应链漏洞](https://su18.org/tag/3WtBYGru6/)
 # rmi攻击（重点）
 rmi是什么
