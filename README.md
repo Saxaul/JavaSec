@@ -2,8 +2,12 @@
 Java安全学习记录
 Java 安全学习路线
 
-# idea
-idea安装，如何调试，常见bug如何解决
+# IDEA
+IDEA安装
+
+如何调试
+
+常见bug如何解决
 
 # Maven
 Maven安装配置
