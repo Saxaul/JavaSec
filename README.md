@@ -7,24 +7,27 @@ idea安装，如何调试，常见bug如何解决
 
 # Maven
 Maven安装配置
+
 常见bug解决
+
 如何加速
+
 各种常见Maven插件
 
 多模块项目是什么
 
 了解Gradle
 
-Java Web
+# Java Web
 Servlet Tomcat JSP
 
 传统XML配置SSM/SSH
 
-SpringBoot
+# SpringBoot
 
 SpringCloud （了解即可）
 
-反射
+# 反射
 反射调用方法
 
 反射修改字段
@@ -33,7 +36,7 @@ SpringCloud （了解即可）
 
 进阶：高版本绕过反射限制等
 
-ASM/Javassist
+# ASM/Javassist
 (推荐用到再学，主要是安全开发需要学)
 
 字节码是什么
@@ -42,14 +45,14 @@ ASM/Javassist
 
 如何使用javassist生成字节码
 
-jndi攻击（重点）
+# jndi攻击（重点）
 8u191以上如何攻击
 
 8u191以上如何打（反序列化/本地工厂）
 
 如何审计这种漏洞
 
-rmi攻击（重点）
+# rmi攻击（重点）
 rmi是什么
 
 攻击Server端
@@ -60,15 +63,15 @@ rmi是什么
 
 攻击DGC
 
-java agent
+# java agent
 启动前与运行中的Agent
 
 Rasp的原理，简单实现
 
-JMX/JDWP
+# JMX/JDWP
 jmx/jdwp利用
 
-反序列化基础（重点）
+# 反序列化基础（重点）
 urldns/cc/cb/7u21/8u20 分析
 
 尝试阅读并魔改ysoserial
@@ -77,7 +80,7 @@ JEP 290是什么
 
 JEP 290鸡肋绕过
 
-fastjson反序列化（重点）
+#fastjson反序列化（重点）
 1.2.47以前的分析和绕过
 
 1.2.47到1.2.68的分析和绕过
@@ -86,7 +89,7 @@ fastjson反序列化（重点）
 
 利用方面（出网以及不出网）
 
-Weblogic
+# Weblogic
 反序列化漏洞
 
 二次反序列化
@@ -99,22 +102,22 @@ IIOP/T3
 
 文件上传
 
-Xstream/Jackson
+# Xstream/Jackson
 他们历史上有很多Gadget
 
 重点放在如何去找新的Gadget
 
-Hessian
+# Hessian
 dubbo历史上的一些洞
 
-SnakeYAML
+# SnakeYAML
 SnakeYAML的利用（Jar）
 
 SnakeYAML如何修复的
 
 如何审计这种（SafeConstructor）
 
-Shiro （重点）
+# Shiro （重点）
 Shiro经典RCE
 
 Shiro 721 Padding Oracke
@@ -133,7 +136,7 @@ Shiro 721 Padding Oracke
 
 存在Nginx反代和负载均衡下的问题解决
 
-Struts2
+# Struts2
 几十个漏洞
 
 Spring（重点）
@@ -147,7 +150,7 @@ SpringBoot Actuator 利用
 
 Spring-Security相关的绕过
 
-Tomcat
+# Tomcat
 Tomcat PUT rce
 
 Tomcat CGI servlet rce
@@ -158,7 +161,7 @@ Tomcat AJP rce
 
 Tomcat 其他鸡肋洞
 
-内存马原理（重点）
+# 内存马原理（重点）
 Servlet/Filter/Listener
 
 Valve/WebSocket/Executor
@@ -173,7 +176,7 @@ Spring Controller/Interceptor
 
 内存马反查杀（如何防止被检测到）
 
-内存马查杀
+# 内存马查杀
 c0ny1师傅的jsp查杀
 
 核心：类名；存在文件
@@ -182,7 +185,7 @@ dump class查杀
 
 sa-jdi dump agent
 
-log4j2
+# log4j2
 最初版RCE与RCE绕过姿势
 
 2.15版本特殊绕过（特殊操作系统）
@@ -195,7 +198,7 @@ java Agent修复
 
 如何编写Burp插件来检测
 
-其他组件漏洞
+#其他组件漏洞
 Apache Solr
 
 Apache Flink
@@ -204,7 +207,7 @@ Apache Spark
 
 Apache Skywalking
 
-进阶
+# 进阶
 tabby
 
 codeql
