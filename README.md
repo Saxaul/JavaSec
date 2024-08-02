@@ -231,6 +231,8 @@ codeql
 # 相关链接：
 [Java Web安全](https://www.javasec.org/)
 
+[java学习路线](https://www.viewofthai.link/2023/01/09/java-%E5%AE%89%E5%85%A8%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/)
+
 [JAVA安全基础（一）--类加载器（ClassLoader）](https://xz.aliyun.com/t/9002?time__1311=n4%2BxnD0DuAitG%3DoqGNnmDUxYwKWqD5qP%2BKPQ34x)
 
 [JAVA安全基础（二）-- 反射机制](https://xz.aliyun.com/t/9117?time__1311=n4%2BxnD0DuADtBrxBqooGkDRmxcnQ3kkHF4D)
