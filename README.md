@@ -248,3 +248,5 @@ codeql
 [Hello Java Sec安全编码平台安装运行](https://cn-sec.com/archives/2313482.html)
 
 [java-代码审计学习篇](https://zone.huoxian.cn/d/736-java)
+
+[Java-sec-code学习记录](https://www.ol4three.com/2021/08/12/WEB/Code_audit/Java-sec-code%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/)
