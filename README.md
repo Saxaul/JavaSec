@@ -241,9 +241,8 @@ codeql
 
 [java靶场](https://github.com/j3ers3/Hello-Java-Sec)
 [Hello Java Sec安全编码平台安装运行](https://cn-sec.com/archives/2313482.html)
+[java-代码审计学习篇](https://zone.huoxian.cn/d/736-java)
 
 [JAVA安全基础（四）-- RMI机制](https://xz.aliyun.com/t/9261?time__1311=n4%2BxnD0DuAG%3DQD5i%3DD%2FiW4BKGQkqYvXIjKqwKQx)
-
-[java-代码审计学习篇](https://zone.huoxian.cn/d/736-java)
 
 [网络安全零基础学习路线 ](https://www.processon.com/view/link/62b1b2267d9c08073c671315)
