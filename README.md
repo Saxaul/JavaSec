@@ -252,3 +252,5 @@ codeql
 [Java-sec-code学习记录](https://www.ol4three.com/2021/08/12/WEB/Code_audit/Java-sec-code%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/)
 
 [Vulhub靶场搭建教程](https://www.cnblogs.com/zovt/p/16337343.html#https://miluluyo.github.io/)
+
+(《Java安全-只有Java安全才能拯救宇宙》)[https://github.com/HackJava/HackJava]
